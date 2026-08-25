@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepak Yadav
 
-<!--
-**deepakyadav1425/deepakyadav1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Python Developer | Programmer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Deepak Yadav, a passionate learner who enjoys exploring the world of programming and software development. I’m currently focused on improving my programming skills and building practical projects.
+
+## 👨‍💻 About Me
+
+- 🐍 Currently learning and improving my **Python** skills
+- 💻 Interested in **Software Development & Programming**
+- 🌱 Exploring advanced programming concepts
+- ⚛️ Learning **React** and modern web development
+- 🗄️ Exploring **SQL & MySQL**
+- 🧠 Interested in problem-solving and logical thinking
+- 🚀 Building projects to turn my knowledge into practical experience
+- 📚 Always learning something new in technology
+
+## 🛠️ Skills & Technologies
+
+### Programming
+- Python
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📚 Currently Learning
+
+```text
+Python          ████████████████░░░░
+SQL / MySQL     █████████████░░░░░░░
+React           ███████████░░░░░░░░░
+JavaScript      ███████████░░░░░░░░░
+Git & GitHub    ██████████████░░░░░░

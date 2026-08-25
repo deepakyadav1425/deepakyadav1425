@@ -6,6 +6,8 @@ Welcome to my GitHub profile! 👋
 
 I'm Deepak Yadav, a passionate learner who enjoys exploring the world of programming and software development. I’m currently focused on improving my programming skills and building practical projects.
 
+Live Demo: https://tyszqp.csb.app/
+
 ## 👨‍💻 About Me
 
 - 🐍 Currently learning and improving my **Python** skills

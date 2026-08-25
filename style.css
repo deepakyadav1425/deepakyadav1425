@@ -404,4 +404,8 @@ footer p {
     .about-box {
         padding: 25px;
     }
+
+    p{
+        color: #061018;
+    }
 }

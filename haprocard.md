@@ -1,30 +1,22 @@
-#  Deepak page
+# Deepak Yadav
 
-**ID:**  Deepak
-**Category:** Developer Tool / API
-**Status:** In Development
-**Author:** Deepak
-**Date:** 1 September 2026
+## Project
 
-## Description
- Deepak /kkkkkkkkkkkkk
+title: Deepak Yadav
+description: Aspiring Python Developer and Full Stack Developer focused on building practical software and web development projects.
+category: Developer Tools
+status: Active
+image: https://deepak.free.je
 
-## Technologies
+## Links
 
-Node.js, Express.js, JavaScript, GitHub API, REST API, Markdown
+live: https://deepak.free.je
+demo: https://tyszqp.csb.app/
+documentation:
+github: https://github.com/deepakyadav1425/deepakyadav1425
 
-## Image
+## Discover
 
-https://2026-amazon-clone.netlify.app/img/main/image.png
-
-## Live
-https://2026-amazon-clone.netlify.app
-
-## GitHub
-
-https://github.com/deepakyadav1425/amazon-clone-project/
-
-## Tags
-html css
-
-**Featured:** true
+tags: deepak-yadav, python-developer, full-stack-developer, python, django, fastapi, react, web-development, portfolio, developer-profile
+featured: true
+open_source: true

@@ -10,8 +10,8 @@ image: https://haproid.netlify.app/assets/img/user/pro-deepak-01/deepak.webp
 
 ## Links
 
-live: https://deepak.free.je
-demo: https://tyszqp.csb.app/
+live: https://haproid.netlify.app/user/pro-deepak-01/
+demo: https://deepak.free.je 
 documentation:
 github: https://github.com/deepakyadav1425/deepakyadav1425
 

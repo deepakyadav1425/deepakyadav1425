@@ -6,7 +6,7 @@ title: Deepak Yadav
 description: Aspiring Python Developer and Full Stack Developer focused on building practical software and web development projects.
 category: Developer Tools
 status: Active
-image: https://deepak.free.je
+image: https://haproid.netlify.app/assets/img/user/pro-deepak-01/deepak.webp
 
 ## Links
 
